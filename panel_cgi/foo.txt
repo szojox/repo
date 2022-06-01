@@ -1,0 +1,5 @@
+var pasek_gora = false;
+var pasek_dol = true;
+var tekst_pasek_dol = $homepage = <?php file_get_contents('http://localhost/tekst_pasek_dol.txt'); echo $homepage;?>;
+var video_baza = true;
+var animacja = pasek_gora;
